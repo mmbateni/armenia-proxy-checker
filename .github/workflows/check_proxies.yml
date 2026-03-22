@@ -1,1 +1,45 @@
+name: Armenia Proxy Checker
 
+on:
+  schedule:
+    - cron: "30 20 * * *"   # 20:30 UTC = 00:30 Yerevan (UTC+4) / 12:30 Vancouver
+  workflow_dispatch:
+
+jobs:
+  collect-proxies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests pysocks
+
+      - name: Collect Armenian proxy candidates
+        run: python check_proxies.py
+        env:
+          COLLECT_ONLY: "1"   # Azure can't reach Armenian IPs — collect & save only
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: armenia-proxies-${{ github.run_id }}
+          path: |
+            working_armenia_proxies.txt
+            working_armenia_proxies.json
+          retention-days: 7
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add working_armenia_proxies.txt working_armenia_proxies.json
+          git diff --cached --quiet || git commit -m "chore: update proxies $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
