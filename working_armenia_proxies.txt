@@ -1,36 +1,52 @@
-# Armenian Proxies — 2026-04-15 21:11 UTC
+# Armenian Proxies — 2026-04-16 21:08 UTC
 # Freshness window: 72h | Mode: COLLECT-ONLY
-# Live-verified: 0 | Fresh CIDR-confirmed: 27
+# Live-verified: 0 | Fresh CIDR-confirmed: 43
 # TCP: ok=0 refused=0 timeout=0
 #
 
 
 # === ALL FRESH ARMENIAN IPs (unverified) ===
 
-45.133.107.64:81            # ercindedeoglu_http
-92.246.136.206:3128         # ercindedeoglu_s5
-81.16.9.222:3629            # ercindedeoglu_s5
-81.89.211.55:1080           # ercindedeoglu_s5
-195.248.240.137:3128        # ercindedeoglu_http
-46.36.123.50:81             # ercindedeoglu_http
-195.250.78.146:3129         # ercindedeoglu_s5
-212.42.203.152:6200         # ercindedeoglu_s5
-45.133.107.10:81            # ercindedeoglu_s5
-89.249.193.234:5972         # ercindedeoglu_http
-89.249.193.171:5909         # ercindedeoglu_http
-45.133.107.246:81           # ercindedeoglu_s5
-212.42.199.15:5754          # ercindedeoglu_s5
-81.16.1.187:32650           # ercindedeoglu_http
-89.249.194.180:6579         # ercindedeoglu_s5
-91.195.110.196:80           # ercindedeoglu_http
-45.133.107.234:81           # ercindedeoglu_s5
-37.186.123.193:80           # ercindedeoglu_s5
-95.174.112.113:8888         # ercindedeoglu_s5
-212.42.199.151:5890         # ercindedeoglu_s5
-185.215.53.129:3629         # ercindedeoglu_s5
-62.89.9.10:8080             # ercindedeoglu_http
-188.92.28.76:26570          # ercindedeoglu_http
 195.250.92.58:8080          # ercindedeoglu_http
-89.249.193.225:5963         # ercindedeoglu_s5
+81.16.1.187:32650           # ercindedeoglu_http
+89.249.193.114:5852         # ercindedeoglu_http
+185.215.53.201:3629         # ercindedeoglu_http
+178.248.3.76:1080           # ercindedeoglu_http
+62.89.9.10:8080             # ercindedeoglu_http
 81.89.220.11:3128           # ercindedeoglu_http
-37.186.66.36:3629           # ercindedeoglu_http
+185.215.53.129:3629         # ercindedeoglu_http
+89.249.193.230:5968         # ercindedeoglu_http
+212.42.199.151:5890         # ercindedeoglu_http
+89.249.192.177:6576         # ercindedeoglu_http
+91.195.110.196:80           # ercindedeoglu_http
+89.249.195.21:6776          # ercindedeoglu_http
+89.249.192.57:6456          # ercindedeoglu_http
+217.144.185.140:8888        # ercindedeoglu_http
+37.157.218.225:80           # ercindedeoglu_s5
+93.185.159.72:3128          # ercindedeoglu_http
+45.133.107.64:81            # ercindedeoglu_http
+89.249.194.192:6591         # ercindedeoglu_http
+89.249.198.214:6300         # ercindedeoglu_http
+89.249.192.66:6465          # ercindedeoglu_http
+45.133.107.10:81            # ercindedeoglu_http
+89.249.194.33:6432          # ercindedeoglu_http
+89.249.195.237:6992         # ercindedeoglu_http
+89.249.193.234:5972         # ercindedeoglu_http
+212.42.199.138:5877         # ercindedeoglu_s5
+93.185.156.89:3128          # ercindedeoglu_http
+45.133.107.192:81           # ercindedeoglu_http
+195.250.78.146:3128         # ercindedeoglu_s5
+89.249.195.209:6964         # ercindedeoglu_s5
+195.248.240.137:3128        # ercindedeoglu_http
+89.249.193.191:5929         # ercindedeoglu_http
+89.249.195.40:6795          # ercindedeoglu_http
+46.36.123.50:81             # ercindedeoglu_http
+95.174.112.113:8888         # ercindedeoglu_s5
+212.42.199.129:5868         # ercindedeoglu_http
+212.42.203.16:6064          # ercindedeoglu_http
+185.202.113.232:3001        # ercindedeoglu_s5
+93.185.156.89:3129          # ercindedeoglu_http
+93.185.159.72:3129          # ercindedeoglu_http
+37.252.64.43:80             # ercindedeoglu_s5
+130.193.123.34:5678         # ercindedeoglu_http
+45.133.107.234:81           # ercindedeoglu_s5
