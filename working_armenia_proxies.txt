@@ -1,4 +1,4 @@
-# Armenian Proxies — 2026-06-02 22:31 UTC
+# Armenian Proxies — 2026-06-03 22:35 UTC
 # Freshness window: 72h | Mode: COLLECT-ONLY
 # Live-verified: 0 | Fresh CIDR-confirmed: 20
 # TCP: ok=0 refused=0 timeout=0
@@ -7,23 +7,23 @@
 
 # === ALL FRESH ARMENIAN IPs (unverified) ===
 
-46.36.123.50:81             # ercindedeoglu_http
-89.249.195.140:6895         # ercindedeoglu_s5
-195.250.92.58:8080          # ercindedeoglu_http
+46.130.117.84:8080          # ercindedeoglu_s5
+89.249.198.103:6189         # ercindedeoglu_http
+213.108.21.202:1081         # ercindedeoglu_s5
+212.42.199.108:5847         # ercindedeoglu_s5
+45.133.107.238:81           # ercindedeoglu_s5
+81.89.220.11:3128           # ercindedeoglu_http
 91.195.110.196:80           # ercindedeoglu_http
 195.248.240.137:3128        # ercindedeoglu_http
-46.130.117.84:8080          # ercindedeoglu_s5
-81.16.1.187:32650           # ercindedeoglu_http
-185.215.53.193:3629         # ercindedeoglu_s5
-45.133.107.64:81            # ercindedeoglu_http
-45.133.107.192:81           # ercindedeoglu_http
-45.133.107.238:81           # ercindedeoglu_http
-130.193.123.34:5678         # ercindedeoglu_s5
-62.89.9.10:8080             # ercindedeoglu_http
-89.249.192.92:6491          # ercindedeoglu_s5
+5.77.252.202:8080           # ercindedeoglu_s5
+213.108.20.61:1081          # ercindedeoglu_s5
+212.42.199.2:5741           # ercindedeoglu_s5
+89.249.195.11:6766          # ercindedeoglu_http
 45.133.107.10:81            # ercindedeoglu_http
-5.77.252.204:8080           # ercindedeoglu_s5
-81.89.220.11:3128           # ercindedeoglu_http
-37.186.66.36:3629           # ercindedeoglu_s5
-89.249.192.176:6575         # ercindedeoglu_http
-178.248.3.76:1080           # ercindedeoglu_s5
+195.250.92.58:8080          # ercindedeoglu_http
+213.108.21.202:1080         # ercindedeoglu_s5
+81.16.1.187:32650           # ercindedeoglu_http
+92.42.102.77:31338          # ercindedeoglu_s5
+62.89.9.10:8080             # ercindedeoglu_http
+45.133.107.64:81            # ercindedeoglu_http
+130.193.123.34:5678         # ercindedeoglu_s5
