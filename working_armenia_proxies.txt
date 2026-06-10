@@ -1,26 +1,29 @@
-# Armenian Proxies — 2026-06-09 22:02 UTC
+# Armenian Proxies — 2026-06-10 22:24 UTC
 # Freshness window: 72h | Mode: COLLECT-ONLY
-# Live-verified: 0 | Fresh CIDR-confirmed: 17
+# Live-verified: 0 | Fresh CIDR-confirmed: 20
 # TCP: ok=0 refused=0 timeout=0
 #
 
 
 # === ALL FRESH ARMENIAN IPs (unverified) ===
 
-37.186.66.36:3629           # am_targeted
-185.215.54.66:3629          # ercindedeoglu_http
-89.249.195.97:6852          # ercindedeoglu_http
 81.16.1.187:32650           # ercindedeoglu_http
-45.133.107.64:81            # ercindedeoglu_http
-212.42.199.251:5990         # ercindedeoglu_http
-178.248.3.76:1080           # ercindedeoglu_http
-81.89.220.11:3128           # ercindedeoglu_http
-62.89.9.10:8080             # ercindedeoglu_http
-195.250.92.58:8080          # ercindedeoglu_http
-91.195.110.196:80           # ercindedeoglu_http
-185.215.53.193:3629         # ercindedeoglu_http
 45.133.107.10:81            # ercindedeoglu_http
-212.42.199.170:5909         # ercindedeoglu_http
-185.215.53.241:3629         # ercindedeoglu_http
+91.204.190.140:81           # ercindedeoglu_http
+130.193.123.34:5678         # ercindedeoglu_s5
+46.36.123.50:81             # ercindedeoglu_http
+81.89.220.11:3128           # ercindedeoglu_http
+89.249.198.96:6182          # ercindedeoglu_s5
 195.248.240.137:3128        # ercindedeoglu_http
-5.77.252.204:8080           # ercindedeoglu_http
+89.249.192.238:6637         # ercindedeoglu_s5
+89.249.198.153:6239         # ercindedeoglu_http
+62.89.9.10:8080             # ercindedeoglu_http
+89.249.192.176:6575         # ercindedeoglu_s5
+89.249.198.226:6312         # ercindedeoglu_http
+45.133.107.64:81            # ercindedeoglu_http
+89.249.198.237:6323         # ercindedeoglu_http
+89.249.192.92:6491          # ercindedeoglu_http
+195.250.92.58:8080          # ercindedeoglu_http
+185.215.53.193:3629         # ercindedeoglu_s5
+91.195.110.196:80           # ercindedeoglu_http
+89.249.193.230:5968         # ercindedeoglu_http
