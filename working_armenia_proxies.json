@@ -1,18 +1,18 @@
 {
-  "checked_at": "2026-07-03 21:38 UTC",
+  "checked_at": "2026-07-04 21:25 UTC",
   "fresh_hours": 72,
   "mode": "COLLECT-ONLY",
   "verified_count": 0,
-  "fresh_count": 12,
+  "fresh_count": 28,
   "tcp_stats": {
     "ok": 0,
     "refused": 0,
     "timeout": 0
   },
   "source_counts": {
-    "ercindedeoglu_http": 9,
-    "ercindedeoglu_s5": 1,
-    "proxifly": 2
+    "ercindedeoglu_http": 15,
+    "ercindedeoglu_s5": 9,
+    "proxifly": 4
   },
   "verified": [],
   "all_fresh_ips": [
@@ -22,19 +22,19 @@
       "ts": "fresh_5min"
     },
     {
+      "proxy": "2.56.204.180:1080",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
       "proxy": "80.86.231.109:443",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
     {
-      "proxy": "195.248.240.137:3128",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "62.89.9.10:8080",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
+      "proxy": "185.215.53.129:3629",
+      "source": "proxifly",
+      "ts": "fresh_5min"
     },
     {
       "proxy": "45.133.107.64:81",
@@ -42,27 +42,27 @@
       "ts": "repo_fresh"
     },
     {
-      "proxy": "45.133.107.10:81",
+      "proxy": "45.133.107.192:81",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     },
     {
-      "proxy": "89.249.193.41:5779",
+      "proxy": "188.92.28.76:10800",
       "source": "ercindedeoglu_s5",
       "ts": "repo_fresh"
     },
     {
-      "proxy": "91.195.110.196:80",
+      "proxy": "89.249.192.238:6637",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "89.249.192.92:6491",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     },
     {
-      "proxy": "195.250.92.58:8080",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "81.89.220.11:3128",
+      "proxy": "212.42.203.227:6275",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     },
@@ -72,7 +72,87 @@
       "ts": "repo_fresh"
     },
     {
-      "proxy": "212.42.199.58:5797",
+      "proxy": "89.249.194.191:6590",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "81.16.9.222:3629",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "37.186.66.36:3629",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "195.248.240.137:3128",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "185.21.252.234:3128",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "62.89.9.10:8080",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "81.89.220.11:3128",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "5.77.252.205:8080",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "91.195.110.196:80",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "2.56.204.180:1081",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "212.42.203.207:6255",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "45.133.107.10:81",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "195.250.92.58:8080",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "89.249.193.41:5779",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "45.133.107.238:81",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "45.133.107.193:81",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "91.204.190.140:81",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     }
