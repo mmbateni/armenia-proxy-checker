@@ -1,23 +1,28 @@
 {
-  "checked_at": "2026-07-26 21:24 UTC",
+  "checked_at": "2026-07-27 21:35 UTC",
   "fresh_hours": 72,
   "mode": "COLLECT-ONLY",
   "verified_count": 0,
-  "fresh_count": 22,
+  "fresh_count": 23,
   "tcp_stats": {
     "ok": 0,
     "refused": 0,
     "timeout": 0
   },
   "source_counts": {
-    "ercindedeoglu_s5": 8,
-    "ercindedeoglu_http": 12,
-    "proxifly": 2
+    "ercindedeoglu_s5": 9,
+    "ercindedeoglu_http": 9,
+    "proxifly": 5
   },
   "verified": [],
   "all_fresh_ips": [
     {
-      "proxy": "91.221.229.86:443",
+      "proxy": "37.186.66.36:3629",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "81.16.9.222:3629",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
@@ -27,47 +32,37 @@
       "ts": "fresh_5min"
     },
     {
-      "proxy": "212.42.199.129:5868",
-      "source": "ercindedeoglu_s5",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "37.186.66.36:3629",
-      "source": "ercindedeoglu_s5",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "45.133.107.64:81",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "62.89.9.10:8080",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "89.249.195.97:6852",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "212.42.203.227:6275",
-      "source": "ercindedeoglu_s5",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "130.193.123.34:5678",
-      "source": "ercindedeoglu_s5",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "91.204.190.140:81",
-      "source": "ercindedeoglu_s5",
-      "ts": "repo_fresh"
-    },
-    {
       "proxy": "2.56.206.46:80",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "91.221.229.86:443",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "5.77.252.205:8080",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "212.42.199.104:5843",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "45.133.107.246:81",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "45.133.107.10:81",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "195.250.92.58:8080",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     },
@@ -77,33 +72,18 @@
       "ts": "repo_fresh"
     },
     {
-      "proxy": "212.42.199.209:5948",
+      "proxy": "45.133.107.64:81",
       "source": "ercindedeoglu_http",
       "ts": "repo_fresh"
     },
     {
-      "proxy": "195.250.92.58:8080",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "81.16.1.187:32650",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "185.215.53.193:3629",
+      "proxy": "212.42.207.165:5567",
       "source": "ercindedeoglu_s5",
       "ts": "repo_fresh"
     },
     {
-      "proxy": "89.249.195.35:6790",
-      "source": "ercindedeoglu_http",
-      "ts": "repo_fresh"
-    },
-    {
-      "proxy": "45.133.107.10:81",
-      "source": "ercindedeoglu_http",
+      "proxy": "217.144.187.80:1081",
+      "source": "ercindedeoglu_s5",
       "ts": "repo_fresh"
     },
     {
@@ -112,7 +92,22 @@
       "ts": "repo_fresh"
     },
     {
-      "proxy": "45.133.107.234:81",
+      "proxy": "217.144.187.80:1080",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "62.89.9.10:8080",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "212.42.203.134:6182",
+      "source": "ercindedeoglu_s5",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "212.42.203.201:6249",
       "source": "ercindedeoglu_s5",
       "ts": "repo_fresh"
     },
@@ -122,7 +117,17 @@
       "ts": "repo_fresh"
     },
     {
-      "proxy": "81.16.9.222:3629",
+      "proxy": "81.16.1.187:32650",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "5.77.252.204:8080",
+      "source": "ercindedeoglu_http",
+      "ts": "repo_fresh"
+    },
+    {
+      "proxy": "130.193.123.34:5678",
       "source": "ercindedeoglu_s5",
       "ts": "repo_fresh"
     }
