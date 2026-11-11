@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-11-10 02:49 UTC",
+  "checked_at": "2026-11-11 00:43 UTC",
   "fresh_hours": 72,
   "mode": "COLLECT-ONLY",
   "verified_count": 0,
-  "fresh_count": 7,
+  "fresh_count": 8,
   "tcp_stats": {
     "ok": 0,
     "refused": 0,
     "timeout": 0
   },
   "source_counts": {
-    "proxifly": 7
+    "proxifly": 8
   },
   "verified": [],
   "all_fresh_ips": [
@@ -20,22 +20,7 @@
       "ts": "fresh_5min"
     },
     {
-      "proxy": "195.250.92.58:8080",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "46.226.165.82:8443",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
       "proxy": "80.86.231.109:443",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "81.16.9.222:3629",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
@@ -46,6 +31,26 @@
     },
     {
       "proxy": "212.34.230.102:4153",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "195.250.92.58:8080",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "45.133.107.10:81",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "45.133.107.246:81",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "46.226.165.82:8443",
       "source": "proxifly",
       "ts": "fresh_5min"
     }
