@@ -1,21 +1,26 @@
 {
-  "checked_at": "2026-11-11 00:43 UTC",
+  "checked_at": "2026-11-12 01:56 UTC",
   "fresh_hours": 72,
   "mode": "COLLECT-ONLY",
   "verified_count": 0,
-  "fresh_count": 8,
+  "fresh_count": 6,
   "tcp_stats": {
     "ok": 0,
     "refused": 0,
     "timeout": 0
   },
   "source_counts": {
-    "proxifly": 8
+    "proxifly": 6
   },
   "verified": [],
   "all_fresh_ips": [
     {
-      "proxy": "130.193.123.34:5678",
+      "proxy": "195.250.92.58:8080",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "212.34.230.102:4153",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
@@ -30,22 +35,7 @@
       "ts": "fresh_5min"
     },
     {
-      "proxy": "212.34.230.102:4153",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "195.250.92.58:8080",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "45.133.107.10:81",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "45.133.107.246:81",
+      "proxy": "185.215.53.253:3629",
       "source": "proxifly",
       "ts": "fresh_5min"
     },

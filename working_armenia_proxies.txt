@@ -1,17 +1,15 @@
-# Armenian Proxies — 2026-11-11 00:43 UTC
+# Armenian Proxies — 2026-11-12 01:56 UTC
 # Freshness window: 72h | Mode: COLLECT-ONLY
-# Live-verified: 0 | Fresh CIDR-confirmed: 8
+# Live-verified: 0 | Fresh CIDR-confirmed: 6
 # TCP: ok=0 refused=0 timeout=0
 #
 
 
 # === ALL FRESH ARMENIAN IPs (unverified) ===
 
-130.193.123.34:5678         # proxifly
+195.250.92.58:8080          # proxifly
+212.34.230.102:4153         # proxifly
 80.86.231.109:443           # proxifly
 91.221.229.86:443           # proxifly
-212.34.230.102:4153         # proxifly
-195.250.92.58:8080          # proxifly
-45.133.107.10:81            # proxifly
-45.133.107.246:81           # proxifly
+185.215.53.253:3629         # proxifly
 46.226.165.82:8443          # proxifly
