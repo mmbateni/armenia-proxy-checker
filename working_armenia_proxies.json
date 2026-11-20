@@ -1,51 +1,22 @@
 {
-  "checked_at": "2026-11-19 01:55 UTC",
+  "checked_at": "2026-11-20 01:49 UTC",
   "fresh_hours": 72,
   "mode": "COLLECT-ONLY",
   "verified_count": 0,
-  "fresh_count": 12,
+  "fresh_count": 13,
   "tcp_stats": {
     "ok": 0,
     "refused": 0,
     "timeout": 0
   },
   "source_counts": {
-    "proxifly": 12
+    "am_targeted": 2,
+    "proxifly": 11
   },
   "verified": [],
   "all_fresh_ips": [
     {
-      "proxy": "37.186.66.36:3629",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
       "proxy": "185.215.53.193:3629",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "80.86.231.109:443",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "46.226.167.214:1080",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "45.133.107.10:81",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "130.193.123.34:5678",
-      "source": "proxifly",
-      "ts": "fresh_5min"
-    },
-    {
-      "proxy": "46.226.165.82:8443",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
@@ -60,19 +31,54 @@
       "ts": "fresh_5min"
     },
     {
+      "proxy": "46.226.167.214:1080",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
       "proxy": "91.221.229.86:443",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
     {
-      "proxy": "212.34.230.102:4153",
+      "proxy": "46.226.165.82:8443",
       "source": "proxifly",
       "ts": "fresh_5min"
     },
     {
-      "proxy": "91.204.190.140:81",
+      "proxy": "45.133.107.128:81",
       "source": "proxifly",
       "ts": "fresh_5min"
+    },
+    {
+      "proxy": "45.133.107.64:81",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "37.186.66.36:3629",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "80.86.231.109:443",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "81.16.9.222:3629",
+      "source": "proxifly",
+      "ts": "fresh_5min"
+    },
+    {
+      "proxy": "212.34.230.102:4153",
+      "source": "am_targeted",
+      "ts": "am_targeted"
+    },
+    {
+      "proxy": "91.204.190.140:81",
+      "source": "am_targeted",
+      "ts": "am_targeted"
     }
   ]
 }
